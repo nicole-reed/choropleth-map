@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/choropleth-map/static/css/main.229d0cf6.chunk.css",
+    "main.js": "/choropleth-map/static/js/main.582461dd.chunk.js",
+    "main.js.map": "/choropleth-map/static/js/main.582461dd.chunk.js.map",
+    "runtime-main.js": "/choropleth-map/static/js/runtime-main.1e6e2e4e.js",
+    "runtime-main.js.map": "/choropleth-map/static/js/runtime-main.1e6e2e4e.js.map",
+    "static/js/2.e1b8f0f1.chunk.js": "/choropleth-map/static/js/2.e1b8f0f1.chunk.js",
+    "static/js/2.e1b8f0f1.chunk.js.map": "/choropleth-map/static/js/2.e1b8f0f1.chunk.js.map",
+    "static/js/3.81d91eeb.chunk.js": "/choropleth-map/static/js/3.81d91eeb.chunk.js",
+    "static/js/3.81d91eeb.chunk.js.map": "/choropleth-map/static/js/3.81d91eeb.chunk.js.map",
+    "index.html": "/choropleth-map/index.html",
+    "static/css/main.229d0cf6.chunk.css.map": "/choropleth-map/static/css/main.229d0cf6.chunk.css.map",
+    "static/js/2.e1b8f0f1.chunk.js.LICENSE.txt": "/choropleth-map/static/js/2.e1b8f0f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e6e2e4e.js",
+    "static/js/2.e1b8f0f1.chunk.js",
+    "static/css/main.229d0cf6.chunk.css",
+    "static/js/main.582461dd.chunk.js"
+  ]
+}
